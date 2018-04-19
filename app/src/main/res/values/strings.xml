@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="swinka_bad">Koza</string>
+    <string name="swinka_good">Świnka</string>
+    <string name="wilk_good">Wilk</string>
+    <string name="wilk_bad">Wąż</string>
+    <string name="men_good">Mężczyzna</string>
+    <string name="men_bad">Kobieta</string>
+    <string name="osiol_bad">Mężczyzna</string>
+    <string name="osiol_good">Osioł</string>
+    <string name="waz_bad">Lama</string>
+    <string name="waz_good">Wąż</string>
+</resources>
